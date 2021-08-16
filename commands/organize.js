@@ -1,6 +1,5 @@
 let fs = require("fs");
 let path = require("path");
-const { fileURLToPath } = require("url");
 
 types = {
     media: ["mp4", "mkv"],
